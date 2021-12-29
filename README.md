@@ -16,3 +16,14 @@ iNeuron Python Assignments
 	•	Write a Python program to insertion at the beginning in OrderedDict?
 	•	Write a Python program to check order of character in string using OrderedDict()?
 	•	Write a Python program to sort Python Dictionaries by Key or Value?
+## Python Advance Assignment 5
+
+Q1. What is the meaning of multiple inheritance?
+
+Q2. What is the concept of delegation?
+
+Q3. What is the concept of composition?
+
+Q4. What are bound methods and how do we use them?
+
+Q5. What is the purpose of pseudoprivate attributes?
